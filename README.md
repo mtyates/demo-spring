@@ -1,3 +1,1 @@
-# Snykifying a Java Spring App
-
-
+# Snykifying a Java Spring App#
